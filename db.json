@@ -1,0 +1,29 @@
+{
+    "asanas": [
+        {
+            "id": 0,
+            "name": "Lotus Pose | Padmasana",
+            "description": "The Lotus Pose."
+        },
+        {
+            "id": 1,
+            "name": "Boat Pose | Naukasana",
+            "description": "The Boat Pose."
+        },
+        {
+            "id": 2,
+            "name": "Triangle Pose | Trikonasana",
+            "description": "The Triangle Pose."
+        },
+        {
+            "id": 3,
+            "name": "Mountain Pose | Parvatasana",
+            "description": "The Mountain Pose."
+        },
+        {
+            "id": 4,
+            "name": "Eagle Pose | Garudasana",
+            "description": "The Eagle Pose."
+        }
+    ]
+}
