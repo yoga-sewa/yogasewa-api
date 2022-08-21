@@ -31,6 +31,22 @@
                 "sn": "Garudasana"
             },
             "body": "This is the fourth asana"
+        },
+        {
+            "id": 5,
+            "name": {
+                "en": "Snake Pose",
+                "sn": "Sarpasana"
+            },
+            "body": "This is the fifth asana"
+        },
+        {
+            "id": 6,
+            "name": {
+                "en": "Water Pose",
+                "sn": "Jalasana"
+            },
+            "body": "This is the sixth asana"
         }
     ]
 }
