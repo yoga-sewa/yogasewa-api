@@ -6,6 +6,7 @@
                 "en": "Lotus Pose",
                 "sn": "Padmasana"
             },
+            "img": "https://www.dropbox.com/s/0oylivjwzuj5fnp/seatedORlotus.svg?raw=1",
             "body": "This is the first asana"
         },
         {
@@ -14,14 +15,16 @@
                 "en": "Tree Pose",
                 "sn": "Vrikshasana"
             },
+            "img": "https://www.dropbox.com/s/mn2ktlihp12mtfa/tree.svg?raw=1",
             "body": "This is the second asana"
         },
         {
             "id": 3,
             "name": {
                 "en": "Boat Pose",
-                "sn": "Naukasana"
+                "sn": "Navasana"
             },
+            "img": "https://www.dropbox.com/s/4m64ztxkj8a4dab/boatstraightlegs.svg?raw=1",
             "body": "This is the third asana"
         },
         {
@@ -30,22 +33,25 @@
                 "en": "Eagle Pose",
                 "sn": "Garudasana"
             },
+            "img": "https://www.dropbox.com/s/w05qgx7wyxva1y3/eagle.svg?raw=1",
             "body": "This is the fourth asana"
         },
         {
             "id": 5,
             "name": {
-                "en": "Snake Pose",
-                "sn": "Sarpasana"
+                "en": "Pigeon Pose",
+                "sn": "Supta Kapotasana"
             },
+            "img": "https://www.dropbox.com/s/77peru289zm446u/pigeon.svg?raw=1",
             "body": "This is the fifth asana"
         },
         {
             "id": 6,
             "name": {
-                "en": "Water Pose",
-                "sn": "Jalasana"
+                "en": "Plank Pose",
+                "sn": "Phalakasana"
             },
+            "img": "https://www.dropbox.com/s/jg6ge8zpaltx10f/plank.svg?raw=1",
             "body": "This is the sixth asana"
         }
     ]
