@@ -6,6 +6,11 @@ main {
 
 a {
 	color: #0070F3;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
 }
 
 h1 {
